@@ -18,7 +18,7 @@ even if the conference will (also) be held physically.
 
 ----------------------------------------------------------------------
 
-****** ABOUT ICTAC 2020 ******
+****** ABOUT AI4MED 2021 ******
 
 We are pleased to invite you to submit papers for the 2021 Intenational Symposium on Artificial 
 Intelligence for Medical Applications (AI4MED 2021), which will take place in Newcastle upon 
@@ -55,24 +55,6 @@ The topics of the conference include, but are not limited to:
 - Hermaetology
 - Pandemic Prediction and Prevention
 - etc.
-
-Established in 2004 by the International Institute for Software
-Technology of the United Nations University (UNU-IIST), the ICTAC
-conference series aims at bringing together researchers and
-practitioners from academia, industry and government to present
-research and exchange ideas and experience addressing challenges in
-both theoretical aspects of computing and the exploitation of theory
-through methods and tools for system development. ICTAC also aims to
-promote research cooperation between developing and industrial
-countries.
-
-****** SUBMISSION OF CONTRIBUTIONS ******
-We solicit the following types of papers:
-
-Regular papers, with original research contributions;
-Short papers, with original work in progress or with proposals of new ideas and emerging challenges;
-Survey papers, on summarzing the state of the art research and advances.
-The symposium also particularly welcome research papers on post-pandemic medical research and global health and medical management.
 
 Each paper is expected to present a novel research study, a comparative study, or a survey of the literature. 
 
