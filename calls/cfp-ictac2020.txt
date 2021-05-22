@@ -34,8 +34,9 @@ is an amazing golden age for the interface researchers involved in the developme
 of advanced machine learning techniques to solving long-standing medical and clinical problems with 
 the merits of powerful AI techniques. This symposium aims to capture the most recent important 
 advances in this cross-disciplinary topic and expose the interesting topics to wide audience across 
-the world by inpiring each other via this communication platform for multiple parties including 
-experts, researchers, students, industry developers, medical services, etc...
+the world by inpiring each other and promoting research collaboration via this communication platform
+for multiple parties including academic scientists, industry researchers, early career reseachers, 
+research students, industry developers, medical services, etc...
 
 
 The topics of the conference include, but are not limited to:
@@ -81,7 +82,7 @@ Dr Richard Jiang (Lancaster University, UK)
 
 *** Publicity Chairs ***
 Dr Hua-Liang Wei(Sheffield University, UK)
-(Industry exhibitions, Joint research bids, etc.)
+(Industry exhibitions, Research collaboration, etc.)
 
 *** Advisory Committee ***
 Dr Paul Chazot (Durham University, UK)
