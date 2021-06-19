@@ -6,8 +6,8 @@ The 2021 International Symposium on Artificial Intelligence for Medical Applicat
 https://aiconferences.github.io/AI4MED2021/
 
 ****** IMPORTANT DATES (Updated) ******
-Paper submission: 	Sunday, 18th July 2021
-Notification:  			Sunday, 1st Aug 2021
+Paper submission: 	Sunday, 25th July 2021
+Notification:  			Sunday, 3rd Aug 2021
 Camera-ready: 			Sunday, 15th Aug 2021
 Main Conference: 		19-21 Aug 2021
 
