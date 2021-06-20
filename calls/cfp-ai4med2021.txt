@@ -7,14 +7,14 @@ https://aiconferences.github.io/AI4MED2021/
 
 ****** IMPORTANT DATES (Updated) ******
 Paper submission: 	Sunday, 25th July 2021
-Notification:  			Sunday, 3rd Aug 2021
-Camera-ready: 			Sunday, 15th Aug 2021
-Main Conference: 		19-21 Aug 2021
+Notification:  		Sunday, 3rd Aug 2021
+Camera-ready: 		Sunday, 15th Aug 2021
+Main Conference: 	19-21 Aug 2021
 
 ----------------------------------------------------------------------
 
 REMOTE PARTICIPATION: Due to COVID, we have decided that virtual participation will be possible 
-even if the conference will (also) be held physically.
+even if the conference will (also) be held physically. There is no charge on registration fees.
 
 ----------------------------------------------------------------------
 
@@ -34,8 +34,8 @@ is an amazing golden age for the interface researchers involved in the developme
 of advanced machine learning techniques to solving long-standing medical and clinical problems with 
 the merits of powerful AI techniques. This symposium aims to capture the most recent important 
 advances in this cross-disciplinary topic and expose the interesting topics to wide audience across 
-the world by inpiring each other and promoting research collaboration via this communication platform
-for multiple parties including academic scientists, industry researchers, early career reseachers, 
+the world by inspiring each other and promoting research collaboration via this communication platform
+for multiple parties including academic scientists, industry researchers, early career researchers, 
 research students, industry developers, medical services, etc...
 
 
@@ -71,22 +71,7 @@ Original artwork and a signed copyright release form will be required for all ac
 For author instructions, please visit:
 
 https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/formatting-and-templates/
+https://aiconferences.github.io/AI4MED2021/cfp/ 
 
-Please feel free to contact us via email (ai4med2021@easychair.org, or the chairs below) regarding your papers.
-
-****** Organization ******
-
-*** Programme Chairs ***
-Prof Li Zhang (Robert Gordon University, UK)
-Dr Richard Jiang (Lancaster University, UK)
-
-*** Publicity Chairs ***
-Dr Hua-Liang Wei(Sheffield University, UK)
-(Industry exhibitions, Research collaboration, etc.)
-
-*** Advisory Committee ***
-Dr Paul Chazot (Durham University, UK)
-Prof Danny Crookes (Queen's University Belfast, UK)
-Prof Qinggang Meng (Loughborough University, UK)
-Prof Richard Fu (Northumbria University， UK)
+Please feel free to contact us via email (ai4med2021@easychair.org) regarding your enquiries.
 
