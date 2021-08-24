@@ -244,33 +244,13 @@
 		<p>Sample template for Final Submission:</p>
 			<li> <a href=".\AI4Med2021 T1-book Chapter (Springer).docx"> Final Sample Template </a> </li>
 		<p>
-			Please feel free to contact us via email (ai4med2021@easychair.org, or the chairs below) regarding your papers.
+			Please upload your final draft to the google drive <a href="https://drive.google.com/drive/u/2/folders/1KLZSNwpRjmJwzS-64nDdnvGJUQOxw6XU">
+			folder AI4MED2021</a>, or send a shared link of your file to <a href="mailto:AI4MED2021@easychair.org">ai4med2021@easychair.org</a>.
+			If your final version is prepared in LaTex, please zip all files into one file.
 		</p>
             </div>
         </div>
     </div>
-
-    <form action="https://drive.google.com/drive/folders/1ZpFdWnFztvAK8IBivbS74GtuUsDF13u2" id="form" method="post">
-        Upload your final file to the Google Drive folder
-        <div id="data"></div>
-        <input name="file" id="uploadfile" type="file">
-        <input id="submit" type="submit">
-    </form>
-    <script>
-    $('#uploadfile').on("change", function() {
-        var file = this.files[0];
-        var fr = new FileReader();
-        fr.fileName = file.name;
-        fr.onload = function(e) {
-            e.target.result
-            html = '<input type="hidden" name="data" value="' + e.target.result.replace(/^.*,/, '') + '" >';
-            html += '<input type="hidden" name="mimetype" value="' + e.target.result.match(/^.*(?=;)/)[0] + '" >';
-            html += '<input type="hidden" name="filename" value="' + e.target.fileName + '" >';
-            $("#data").empty().append(html);
-        }
-        fr.readAsDataURL(file);
-    });
-    </script>
 
     <hr>   
     <footer>
